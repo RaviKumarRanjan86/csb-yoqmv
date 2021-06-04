@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ravikumarranjan86.github.io/csb-yoqmv/static/css/main.0b86d16e.chunk.css",
+    "main.js": "https://ravikumarranjan86.github.io/csb-yoqmv/static/js/main.8669ebc5.chunk.js",
+    "main.js.map": "https://ravikumarranjan86.github.io/csb-yoqmv/static/js/main.8669ebc5.chunk.js.map",
+    "runtime-main.js": "https://ravikumarranjan86.github.io/csb-yoqmv/static/js/runtime-main.786f3672.js",
+    "runtime-main.js.map": "https://ravikumarranjan86.github.io/csb-yoqmv/static/js/runtime-main.786f3672.js.map",
+    "static/js/2.02953dff.chunk.js": "https://ravikumarranjan86.github.io/csb-yoqmv/static/js/2.02953dff.chunk.js",
+    "static/js/2.02953dff.chunk.js.map": "https://ravikumarranjan86.github.io/csb-yoqmv/static/js/2.02953dff.chunk.js.map",
+    "index.html": "https://ravikumarranjan86.github.io/csb-yoqmv/index.html",
+    "static/css/main.0b86d16e.chunk.css.map": "https://ravikumarranjan86.github.io/csb-yoqmv/static/css/main.0b86d16e.chunk.css.map",
+    "static/js/2.02953dff.chunk.js.LICENSE.txt": "https://ravikumarranjan86.github.io/csb-yoqmv/static/js/2.02953dff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.786f3672.js",
+    "static/js/2.02953dff.chunk.js",
+    "static/css/main.0b86d16e.chunk.css",
+    "static/js/main.8669ebc5.chunk.js"
+  ]
+}
